@@ -1,2 +1,0 @@
-# ADM
-Automated Data Management
